@@ -3,7 +3,7 @@
 <h2>Requirements</h2>
 
 >[Flutter](https://docs.flutter.dev/) <br>
-[Goofle Maps API Key](https://console.cloud.google.com/) <br>
+[Google Maps API Key](https://console.cloud.google.com/) <br>
 [Visual Studio Code](https://code.visualstudio.com/) or any other code editor <br>
 [Git](https://git-scm.com/downloads)
 
